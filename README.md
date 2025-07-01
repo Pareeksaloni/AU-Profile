@@ -18,8 +18,10 @@ Technical Skills:-
 
 Projects:-
 1. Sentiment Analysis for Tweets (Python, NLP, ML)
-2. Ubuntu Automation using UiPath
-3. WhatsApp Automation using UiPath
+2. PDF-Chatbot using Ollama (Python)
+3. Flight-Analysis model (Python)
+4. Ubuntu Automation using UiPath
+5. WhatsApp Automation using UiPath
 
 Certifications:-
 1. Master course of RPA in UiPath – Intellipaat
@@ -33,7 +35,12 @@ Achievements & Activities:-
 3. Effective communicator and team player with an analytical mindset
 
 Professional Experience:-
-1. Python Developer Intern – Learn and Build
+1. Python Developer Intern – Learn and Build , Jaipur
    (Developed Python-based automation and ML projects.)
+2. Data Intern - VertexPlus Pvt. Ltd. , Jaipur
+   • Preprocessed large field datasets by cleaning, formatting, and validating data entries.
+   • Handled missing values, removed duplicates, and standardized attributes for consistency.
+3. Trainee in DS Field - AU IGNITE (AU Foundation) , Jaipur
+   (Learn and Implement tools and libraries of Python, ML )
 
 
